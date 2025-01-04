@@ -1,0 +1,18 @@
+[project]
+name = "world_bank_mcp_server"
+version = "0.1.0"
+description = "A Model Context Protocol (MCP) server that enables secure interaction with the World Bank APIs. This server allows AI assistants to list tables and read data through a controlled interface, making data exploration and analysis safer and more structured."
+requires-python = ">=3.11"
+dependencies = [
+    "mcp>=1.0.0"
+]
+[[project.authors]]
+name = "Anshuman Saxena"
+email = "anshumax@gmail.com"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project.scripts]
+world_bank_mcp_server = "world_bank_mcp_server:main"
