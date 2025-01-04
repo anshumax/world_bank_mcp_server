@@ -23,7 +23,7 @@ Add this to your `claude_desktop_config.json`:
       "command": "uv",
       "args": [
         "--directory", 
-        "C:/Users/Anshuman/dev/mcp/world_bank_mcp_server",
+        "path/to/world_bank_mcp_server",
         "run",
         "world_bank_mcp_server"
       ]
