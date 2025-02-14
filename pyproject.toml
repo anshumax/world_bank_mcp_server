@@ -4,7 +4,11 @@ version = "0.1.0"
 description = "A Model Context Protocol (MCP) server that enables secure interaction with the World Bank APIs. This server allows AI assistants to list tables and read data through a controlled interface, making data exploration and analysis safer and more structured."
 requires-python = ">=3.11"
 dependencies = [
-    "mcp>=1.0.0"
+    "fastmcp>=0.4.1",
+    "mcp>=1.0.0",
+    "mysql-connector-python>=9.2.0",
+    "pandas>=2.2.3",
+    "requests>=2.32.3",
 ]
 [[project.authors]]
 name = "Anshuman Saxena"
