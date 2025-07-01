@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/anshumax-world-bank-mcp-server-badge.png)](https://mseep.ai/app/anshumax-world-bank-mcp-server)
+
 # World Bank MCP Server
 [![smithery badge](https://smithery.ai/badge/@anshumax/world_bank_mcp_server)](https://smithery.ai/server/@anshumax/world_bank_mcp_server)
 
