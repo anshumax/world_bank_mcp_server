@@ -1,7 +1,7 @@
 [![MseeP.ai Security Assessment Badge](https://mseep.net/pr/anshumax-world-bank-mcp-server-badge.png)](https://mseep.ai/app/anshumax-world-bank-mcp-server)
 
 # World Bank MCP Server
-[![smithery badge](https://smithery.ai/badge/@anshumax/world_bank_mcp_server)](https://smithery.ai/server/@anshumax/world_bank_mcp_server)
+[![LightNow](https://lightnow.ai/badge/io.github.anshumax/world_bank_mcp_server)](https://lightnow.ai/servers/io.github.anshumax/world_bank_mcp_server)
 
 A Model Context Protocol (MCP) server that enables interaction with the open World Bank data API. This server allows AI assistants to list indicators and analyse those indicators for the countries that are available with the World Bank.
 
